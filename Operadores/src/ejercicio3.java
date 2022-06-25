@@ -21,6 +21,7 @@ public class ejercicio3 {
         total = guillermo + luis + juan;
 
         System.out.println("El dinero que tienen los tres es: " + total + " €.");
+
     }
 
 }
