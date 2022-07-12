@@ -38,6 +38,7 @@ public class ejercicio8 {
             }
         }
 
+        //Mostramos el bucle con los números reubicados.
         for (int i=0; i < array.length; i++) {
             System.out.println("Posición " + i + ": " + array[i]);
         }
